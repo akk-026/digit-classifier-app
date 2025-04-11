@@ -1,0 +1,5 @@
+streamlit
+tensorflow-macos
+Pillow
+numpy
+matplotlib
